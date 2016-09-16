@@ -1,4 +1,5 @@
-
+class Stream
+end
 
 class Button
   def push
